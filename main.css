@@ -41,12 +41,12 @@ header li a {
 }
 
 .articles articles img {
-    /*height: 180px;*/
-    width: 100%;
+    height: 180px;
+    /*width: 100%;*/
 }
 
 .articles article {
-    width: 30%;
+    width: 50%;
 }
 
 section {
@@ -72,6 +72,7 @@ section h2,
     font-weight: bold;
     margin-top: 8px;
 }
+
 
 .articles article a:hover {
     text-decoration: underline;
